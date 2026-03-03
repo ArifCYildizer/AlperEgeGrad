@@ -1,0 +1,1 @@
+pip install rembg onnxruntime opencv-python numpy
